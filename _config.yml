@@ -25,6 +25,8 @@ plugins:
   - jekyll-gist
   - jekyll-seo-tag
   - jekyll-sitemap  
+  - jekyll-include-cache
+
 
 collections:
   pages:
